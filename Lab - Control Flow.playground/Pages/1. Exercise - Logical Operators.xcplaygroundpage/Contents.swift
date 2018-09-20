@@ -10,6 +10,7 @@
  
  1. `9 == 9`
  */
+// Proper syntax was not used. Make sure to not use quotations in Swift with the print function. The proper syntax is: print(true), print(false)
 print("True")
 print(9 == 9)
 /*:
